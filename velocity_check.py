@@ -1,4 +1,5 @@
 import time
+
 import redis
 
 WINDOW_SECONDS = 300  # 5 minutes
